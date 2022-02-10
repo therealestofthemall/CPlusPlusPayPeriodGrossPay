@@ -1,6 +1,4 @@
-// PayPeriodGrossPay.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// C++ Early Objects Eight Edition Chapter 2 Exercise #13 "Pay Period Gross Pay"
-// Author: Steven Love 3/17/19
+
 
 #include "pch.h"
 #include <iostream>
@@ -11,7 +9,7 @@ int main()
 {
 	// variables
 
-	double grossPay = 32500;
+	double grossPay = 39,000;
 	int twiceperMonthYear = 24;
 	int biweeklyMonthYear = 26;
 	double grossPayTwicePerMonth;
